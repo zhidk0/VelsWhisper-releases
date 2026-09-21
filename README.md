@@ -9,10 +9,10 @@
 ## Скачать
 
 **Windows 10/11 (64 бита):**
-[VelsWhisper-setup.exe](https://github.com/seymaerde/VelsWhisper-releases/releases/latest/download/VelsWhisper-setup.exe) — 620 МБ
+[VelsWhisper-setup.exe](https://github.com/zhidk0/VelsWhisper-releases/releases/latest/download/VelsWhisper-setup.exe) — 620 МБ
 
 Ссылка всегда ведёт на свежую сборку: имя файла не меняется от версии к версии.
-Номер версии и контрольная сумма — на [странице релизов](https://github.com/seymaerde/VelsWhisper-releases/releases).
+Номер версии и контрольная сумма — на [странице релизов](https://github.com/zhidk0/VelsWhisper-releases/releases).
 
 **Mac:** сборки пока нет — она собирается только на самом Mac.
 
