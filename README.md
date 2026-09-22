@@ -14,7 +14,15 @@
 Ссылка всегда ведёт на свежую сборку: имя файла не меняется от версии к версии.
 Номер версии и контрольная сумма — на [странице релизов](https://github.com/zhidk0/VelsWhisper-releases/releases).
 
-**Mac:** сборки пока нет — она собирается только на самом Mac.
+**Mac (только Apple Silicon, M1 и новее):**
+[VelsWhisper.dmg](https://github.com/zhidk0/VelsWhisper-releases/releases/latest/download/VelsWhisper.dmg) — 404 МБ
+
+После перетаскивания в «Программы» **обязательно** снимите карантин, иначе macOS скажет
+«приложение повреждено»:
+
+```bash
+xattr -dr com.apple.quarantine /Applications/VelsWhisper.app
+```
 
 ## Установка
 
